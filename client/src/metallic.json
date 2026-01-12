@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Aluminum",
+    "image": "/images/metallic/aluminum.png",
+    "price": 61.0,
+    "ghlProductId": "6963317471d535b526079455",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Apple Green",
+    "image": "/images/metallic/apple-green.png",
+    "price": 61.0,
+    "ghlProductId": "69633176f9614131c8e79660",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Black Pearl",
+    "image": "/images/metallic/black-pearl.png",
+    "price": 61.0,
+    "ghlProductId": "6963317ff96141235ee79742",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Bright Orange",
+    "image": "/images/metallic/bright-orange.png",
+    "price": 61.0,
+    "ghlProductId": "696331804798f52c58d45d1a",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Bright White",
+    "image": "/images/metallic/bright-white.png",
+    "price": 61.0,
+    "ghlProductId": "696331820cfb3e5aafa00e36",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Bronze",
+    "image": "/images/metallic/bronze.png",
+    "price": 61.0,
+    "ghlProductId": "696331844798f5a70dd45d60",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Cabernet",
+    "image": "/images/metallic/cabernet.png",
+    "price": 61.0,
+    "ghlProductId": "696331860cfb3e818aa00e9a",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Charcoal",
+    "image": "/images/metallic/charcoal.png",
+    "price": 61.0,
+    "ghlProductId": "69633187f96141c05ce7984d",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Chestnut Brown",
+    "image": "/images/metallic/chestnut-brown.png",
+    "price": 61.0,
+    "ghlProductId": "696331904b53d12cb053c247",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Cobalt",
+    "image": "/images/metallic/cobalt.png",
+    "price": 61.0,
+    "ghlProductId": "6963319271d535ae08079752",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Copper",
+    "image": "/images/metallic/copper.png",
+    "price": 61.0,
+    "ghlProductId": "6963319ba6e8f3317f53d3b6",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Crimson",
+    "image": "/images/metallic/crimson.png",
+    "price": 61.0,
+    "ghlProductId": "6963319da6e8f3cf5f53d41e",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Dark Emerald",
+    "image": "/images/metallic/dark-emerald.png",
+    "price": 61.0,
+    "ghlProductId": "6963319f0cfb3ed5eca01196",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Gold Rush",
+    "image": "/images/metallic/gold-rush.png",
+    "price": 61.0,
+    "ghlProductId": "696331a14b53d17b8353c56a",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Graphite",
+    "image": "/images/metallic/graphite.png",
+    "price": 61.0,
+    "ghlProductId": "696331a371d535170a079ac8",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Jade",
+    "image": "/images/metallic/jade.png",
+    "price": 61.0,
+    "ghlProductId": "696331a4cc8bf49cc8ca4e0b",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Lavender",
+    "image": "/images/metallic/lavender.png",
+    "price": 61.0,
+    "ghlProductId": "696331a671d5350741079b1c",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Lemonade",
+    "image": "/images/metallic/lemonade.png",
+    "price": 61.0,
+    "ghlProductId": "696331a814cd395a419e3e89",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Lime",
+    "image": "/images/metallic/lime.png",
+    "price": 61.0,
+    "ghlProductId": "696331b114cd3954799e3eff",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Luster Blue",
+    "image": "/images/metallic/luster-blue.png",
+    "price": 61.0,
+    "ghlProductId": "696331b2a6e8f3683553d68e",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Magenta",
+    "image": "/images/metallic/magenta.png",
+    "price": 61.0,
+    "ghlProductId": "696331b314cd395f4d9e3f3e",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Marigold",
+    "image": "/images/metallic/marigold.png",
+    "price": 61.0,
+    "ghlProductId": "696331b44798f5342bd4641f",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Merlot",
+    "image": "/images/metallic/merlot.png",
+    "price": 61.0,
+    "ghlProductId": "696331b614cd3911da9e3f89",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Mocha Brown",
+    "image": "/images/metallic/mocha-brown.png",
+    "price": 61.0,
+    "ghlProductId": "696331b7cc8bf40591ca4f92",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Oyster",
+    "image": "/images/metallic/oyster.png",
+    "price": 61.0,
+    "ghlProductId": "696331b80cfb3ee152a014c0",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Peacock",
+    "image": "/images/metallic/peacock.png",
+    "price": 61.0,
+    "ghlProductId": "696331b9f961412756e79f67",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Pearl",
+    "image": "/images/metallic/pearl.png",
+    "price": 61.0,
+    "ghlProductId": "696331c2f961410558e7a0e8",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Pink",
+    "image": "/images/metallic/pink.png",
+    "price": 61.0,
+    "ghlProductId": "696331c34798f5a3edd46650",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Pistachio",
+    "image": "/images/metallic/pistachio.png",
+    "price": 61.0,
+    "ghlProductId": "696331d24b53d1b51a53cb05",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Purple",
+    "image": "/images/metallic/purple.png",
+    "price": 61.0,
+    "ghlProductId": "696331d414cd394d209e438e",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Red Blossom",
+    "image": "/images/metallic/red-blossom.png",
+    "price": 61.0,
+    "ghlProductId": "696331d5a6e8f3a10453db3d",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Royal Blue",
+    "image": "/images/metallic/royal-blue.png",
+    "price": 61.0,
+    "ghlProductId": "696331d64798f51f4bd468fc",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Sage Green",
+    "image": "/images/metallic/sage-green.png",
+    "price": 61.0,
+    "ghlProductId": "696331d7f961410675e7a367",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Sapphire",
+    "image": "/images/metallic/sapphire.png",
+    "price": 61.0,
+    "ghlProductId": "696331d94798f53d5ed4699d",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Scarlet Red",
+    "image": "/images/metallic/scarlet-red.png",
+    "price": 61.0,
+    "ghlProductId": "696331da4798f5cd11d46a04",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Sea Green",
+    "image": "/images/metallic/sea-green.png",
+    "price": 61.0,
+    "ghlProductId": "696331e34b53d168e653cc7b",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Shimmer Blue",
+    "image": "/images/metallic/shimmer-blue.png",
+    "price": 61.0,
+    "ghlProductId": "696331e5a6e8f311b253dcbe",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Smoke Gray",
+    "image": "/images/metallic/smoke-gray.png",
+    "price": 61.0,
+    "ghlProductId": "696331e690071a94e83afee7",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Surf Blue",
+    "image": "/images/metallic/surf-blue.png",
+    "price": 61.0,
+    "ghlProductId": "696331e871d535778f07a321",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Tea Green",
+    "image": "/images/metallic/tea-green.png",
+    "price": 61.0,
+    "ghlProductId": "696331ea71d535c12107a37a",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Violet",
+    "image": "/images/metallic/violet.png",
+    "price": 61.0,
+    "ghlProductId": "696331ec4b53d12ce253ce0c",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Walnut Brown",
+    "image": "/images/metallic/walnut-brown.png",
+    "price": 61.0,
+    "ghlProductId": "696331ed4798f5580ed46c39",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Winter Green",
+    "image": "/images/metallic/winter-green.png",
+    "price": 61.0,
+    "ghlProductId": "696331ef4b53d1b30e53ce52",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Blue",
+    "image": "/images/metallic/neon-blue.png",
+    "price": 61.0,
+    "ghlProductId": "696331f8a6e8f363a553df52",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Bright Red",
+    "image": "/images/metallic/neon-bright-red.png",
+    "price": 61.0,
+    "ghlProductId": "696332010cfb3edc51a01d23",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Green",
+    "image": "/images/metallic/neon-green.png",
+    "price": 61.0,
+    "ghlProductId": "6963320914cd3996e59e4b7f",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Magenta",
+    "image": "/images/metallic/neon-magenta.png",
+    "price": 61.0,
+    "ghlProductId": "696332114b53d1ce5153d501",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Orange",
+    "image": "/images/metallic/neon-orange.png",
+    "price": 61.0,
+    "ghlProductId": "69633213a6e8f3e41853e4c4",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Orange Yellow",
+    "image": "/images/metallic/neon-orange-yellow.png",
+    "price": 61.0,
+    "ghlProductId": "696332140cfb3e6b23a023df",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Pink",
+    "image": "/images/metallic/neon-pink.png",
+    "price": 61.0,
+    "ghlProductId": "696332150cfb3e2686a0249b",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Purple",
+    "image": "/images/metallic/neon-purple.png",
+    "price": 61.0,
+    "ghlProductId": "6963321ea6e8f3baed53e76c",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Red",
+    "image": "/images/metallic/neon-red.png",
+    "price": 61.0,
+    "ghlProductId": "696332274b53d1740b53db43",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Neon Yellow",
+    "image": "/images/metallic/neon-yellow.png",
+    "price": 61.0,
+    "ghlProductId": "696332294798f57171d4799a",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  }
+]

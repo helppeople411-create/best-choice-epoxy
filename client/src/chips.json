@@ -1,0 +1,92 @@
+[
+  {
+    "id": "autumn-brown",
+    "name": "Autumn Brown",
+    "image": "/images/chips/AutumnBrown.png",
+    "price": 110.00
+  },
+  {
+    "id": "cabin-fever",
+    "name": "Cabin Fever",
+    "image": "/images/chips/CabinFever.png",
+    "price": 110.00
+  },
+  {
+    "id": "coyote",
+    "name": "Coyote",
+    "image": "/images/chips/Coyote.png",
+    "price": 110.00
+  },
+  {
+    "id": "creekbed",
+    "name": "Creekbed",
+    "image": "/images/chips/Creekbed.png",
+    "price": 110.00
+  },
+  {
+    "id": "domino",
+    "name": "Domino",
+    "image": "/images/chips/Domino.png",
+    "price": 110.00
+  },
+  {
+    "id": "feather-gray",
+    "name": "Feather Gray",
+    "image": "/images/chips/FeatherGray.png",
+    "price": 110.00
+  },
+  {
+    "id": "glacier",
+    "name": "Glacier",
+    "image": "/images/chips/Glacier.png",
+    "price": 110.00
+  },
+  {
+    "id": "gravel",
+    "name": "Gravel",
+    "image": "/images/chips/Gravel.png",
+    "price": 110.00
+  },
+  {
+    "id": "nightfall",
+    "name": "Nightfall",
+    "image": "/images/chips/Nightfall.png",
+    "price": 110.00
+  },
+  {
+    "id": "orbit",
+    "name": "Orbit",
+    "image": "/images/chips/Orbit.png",
+    "price": 110.00
+  },
+  {
+    "id": "outback",
+    "name": "Outback",
+    "image": "/images/chips/Outback.png",
+    "price": 110.00
+  },
+  {
+    "id": "safari",
+    "name": "Safari",
+    "image": "/images/chips/Safari.png",
+    "price": 110.00
+  },
+  {
+    "id": "shoreline",
+    "name": "Shoreline",
+    "image": "/images/chips/Shoreline.png",
+    "price": 110.00
+  },
+  {
+    "id": "stargazer",
+    "name": "Stargazer",
+    "image": "/images/chips/Stargazer.png",
+    "price": 110.00
+  },
+  {
+    "id": "tidal-wave",
+    "name": "Tidal Wave",
+    "image": "/images/chips/TidalWave.png",
+    "price": 110.00
+  }
+]

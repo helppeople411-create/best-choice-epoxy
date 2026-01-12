@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Aerospace",
+    "icon": "Plane",
+    "description": "High-performance coatings for hangars and maintenance facilities.",
+    "image": "aerospace.jpg"
+  },
+  {
+    "name": "Automotive",
+    "icon": "Car",
+    "description": "Durable, chemical-resistant flooring for showrooms and service bays.",
+    "image": "automotive.jpg"
+  },
+  {
+    "name": "Education",
+    "icon": "GraduationCap",
+    "description": "Safe, low-maintenance flooring for schools and universities.",
+    "image": "education.jpg"
+  },
+  {
+    "name": "Food & Beverage",
+    "icon": "Utensils",
+    "description": "Hygienic, seamless flooring solutions for food processing and dining.",
+    "image": "food-beverage.jpg"
+  },
+  {
+    "name": "Grocery & Retail",
+    "icon": "ShoppingBasket",
+    "description": "Attractive, durable flooring for high-traffic retail environments.",
+    "image": "grocery-retail.jpg"
+  },
+  {
+    "name": "Healthcare",
+    "icon": "Stethoscope",
+    "description": "Sterile, easy-to-clean flooring for hospitals and clinics.",
+    "image": "healthcare.jpg"
+  },
+  {
+    "name": "Manufacturing",
+    "icon": "Factory",
+    "description": "Heavy-duty flooring for industrial manufacturing plants.",
+    "image": "manufacturing.jpg"
+  },
+  {
+    "name": "Pet Care",
+    "icon": "Dog",
+    "description": "Durable, easy-to-clean flooring for veterinary clinics and kennels.",
+    "image": "pet-care.jpg"
+  },
+  {
+    "name": "Pharmaceutical",
+    "icon": "Pill",
+    "description": "Chemical-resistant, sterile flooring for labs and production areas.",
+    "image": "pharmaceutical.jpg"
+  },
+  {
+    "name": "Residential",
+    "icon": "Home",
+    "description": "Stylish, durable flooring for garages, basements, and living spaces.",
+    "image": "residential.jpg"
+  },
+  {
+    "name": "Fire/Police/Rescue",
+    "icon": "Siren",
+    "description": "Rugged, reliable flooring for emergency service facilities.",
+    "image": "fire-police-rescue.jpg"
+  },
+  {
+    "name": "Sporting & Events",
+    "icon": "Trophy",
+    "description": "High-performance flooring for stadiums, arenas, and gyms.",
+    "image": "sporting-events.jpg"
+  }
+]

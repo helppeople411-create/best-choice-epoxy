@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Aluminum",
+    "image": "/images/metallic/aluminum.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Apple Green",
+    "image": "/images/metallic/apple-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Black Pearl",
+    "image": "/images/metallic/black-pearl.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Bright Orange",
+    "image": "/images/metallic/bright-orange.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Bright White",
+    "image": "/images/metallic/bright-white.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Bronze",
+    "image": "/images/metallic/bronze.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Cabernet",
+    "image": "/images/metallic/cabernet.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Charcoal",
+    "image": "/images/metallic/charcoal.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Chestnut Brown",
+    "image": "/images/metallic/chestnut-brown.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Cobalt",
+    "image": "/images/metallic/cobalt.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Copper",
+    "image": "/images/metallic/copper.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Crimson",
+    "image": "/images/metallic/crimson.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Dark Emerald",
+    "image": "/images/metallic/dark-emerald.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Gold Rush",
+    "image": "/images/metallic/gold-rush.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Graphite",
+    "image": "/images/metallic/graphite.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Jade",
+    "image": "/images/metallic/jade.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Lavender",
+    "image": "/images/metallic/lavender.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Lemonade",
+    "image": "/images/metallic/lemonade.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Lime",
+    "image": "/images/metallic/lime.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Luster Blue",
+    "image": "/images/metallic/luster-blue.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Magenta",
+    "image": "/images/metallic/magenta.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Marigold",
+    "image": "/images/metallic/marigold.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Merlot",
+    "image": "/images/metallic/merlot.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Mocha Brown",
+    "image": "/images/metallic/mocha-brown.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Oyster",
+    "image": "/images/metallic/oyster.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Peacock",
+    "image": "/images/metallic/peacock.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Pearl",
+    "image": "/images/metallic/pearl.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Pink",
+    "image": "/images/metallic/pink.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Pistachio",
+    "image": "/images/metallic/pistachio.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Purple",
+    "image": "/images/metallic/purple.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Red Blossom",
+    "image": "/images/metallic/red-blossom.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Royal Blue",
+    "image": "/images/metallic/royal-blue.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Sage Green",
+    "image": "/images/metallic/sage-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Sapphire",
+    "image": "/images/metallic/sapphire.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Scarlet Red",
+    "image": "/images/metallic/scarlet-red.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Sea Green",
+    "image": "/images/metallic/sea-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Shimmer Blue",
+    "image": "/images/metallic/shimmer-blue.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Smoke Gray",
+    "image": "/images/metallic/smoke-gray.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Surf Blue",
+    "image": "/images/metallic/surf-blue.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Tea Green",
+    "image": "/images/metallic/tea-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Violet",
+    "image": "/images/metallic/violet.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Walnut Brown",
+    "image": "/images/metallic/walnut-brown.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Winter Green",
+    "image": "/images/metallic/winter-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Blue",
+    "image": "/images/metallic/neon-blue.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Bright Red",
+    "image": "/images/metallic/neon-bright-red.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Green",
+    "image": "/images/metallic/neon-green.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Magenta",
+    "image": "/images/metallic/neon-magenta.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Orange",
+    "image": "/images/metallic/neon-orange.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Orange Yellow",
+    "image": "/images/metallic/neon-orange-yellow.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Pink",
+    "image": "/images/metallic/neon-pink.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Purple",
+    "image": "/images/metallic/neon-purple.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Red",
+    "image": "/images/metallic/neon-red.png",
+    "price": 61.0,
+    "ghlProductId": null
+  },
+  {
+    "name": "Neon Yellow",
+    "image": "/images/metallic/neon-yellow.png",
+    "price": 61.0,
+    "ghlProductId": null
+  }
+]

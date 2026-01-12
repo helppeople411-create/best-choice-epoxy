@@ -1,0 +1,214 @@
+[
+  {
+    "id": "simguard",
+    "name": "Best Choice Guard",
+    "description": "Patented, polishable acrylic polymer that provides customers with a high-gloss, long-lasting sealer finish.",
+    "price": 340.00,
+    "image": "/images/products/simguard.png",
+    "category": "Sealers",
+    "features": [
+      "Low odor",
+      "Easy to Apply",
+      "Fast drying",
+      "Non-flammable. Non-Toxic",
+      "UV Stable"
+    ]
+  },
+  {
+    "id": "simhard",
+    "name": "Best Choice Hard",
+    "description": "Patented premium hardener, densifier, and sealer designed to penetrate & strengthen vulnerable surfaces.",
+    "price": 245.00,
+    "image": "/images/products/simhard.png",
+    "category": "Concrete Polishing",
+    "features": [
+      "Deep penetration",
+      "Dust proofing",
+      "Abrasion resistance",
+      "Easy maintenance"
+    ]
+  },
+  {
+    "id": "simthane-wb",
+    "name": "Best Choice Thane WB",
+    "description": "Protective, self-crosslinking, single-component clear water-based polyurethane floor coating.",
+    "price": 190.00,
+    "image": "/images/products/simthane-wb.png",
+    "category": "Sealers",
+    "features": [
+      "Water-based",
+      "Low VOC",
+      "Excellent durability",
+      "Clear finish"
+    ]
+  },
+  {
+    "id": "tabletop-epoxy",
+    "name": "Best Choice Tabletop Epoxy",
+    "description": "Self-leveling, crystal clear, UV resistant, protective coating.",
+    "price": 115.00,
+    "image": "/images/products/tabletop-epoxy.png",
+    "category": "Crafting & Hobby",
+    "features": [
+      "Crystal clear",
+      "Self-leveling",
+      "UV resistant",
+      "High gloss"
+    ]
+  },
+  {
+    "id": "1000hs",
+    "name": "Best Choice 1000HS",
+    "description": "Easy to apply 100% solids epoxy primer that seals porous concrete.",
+    "price": 218.00,
+    "image": "/images/products/1000hs.png",
+    "category": "Primers & Basecoats",
+    "features": [
+      "100% Solids",
+      "Low viscosity",
+      "Excellent adhesion",
+      "Seals concrete"
+    ]
+  },
+  {
+    "id": "1100sl",
+    "name": "Best Choice 1100SL",
+    "description": "100% solids, self-leveling, epoxy for flooring professionals who demand quality.",
+    "price": 235.00,
+    "image": "/images/products/1100sl.png",
+    "category": "Primers & Basecoats",
+    "features": [
+      "Self-leveling",
+      "High gloss",
+      "Durable",
+      "Chemical resistant"
+    ]
+  },
+  {
+    "id": "1150fc",
+    "name": "Best Choice 1150FC",
+    "description": "Fast cure 100% solids, high-build epoxy floor coating for applications where heavy-duty protection is required.",
+    "price": 250.00,
+    "image": "/images/products/1150fc.png",
+    "category": "Primers & Basecoats",
+    "features": [
+      "Fast cure",
+      "High build",
+      "Heavy duty",
+      "Chemical resistant"
+    ]
+  },
+  {
+    "id": "800cf",
+    "name": "Best Choice 800CF",
+    "description": "Easy-to-use 100% solids epoxy concrete crack filler designed for vertical or horizontal surface repair.",
+    "price": 90.00,
+    "image": "/images/products/800cf.png",
+    "category": "Concrete & Joint Repair",
+    "features": [
+      "Crack filler",
+      "Vertical/Horizontal",
+      "Easy to use",
+      "Strong bond"
+    ]
+  },
+  {
+    "id": "polyaspartic-hs",
+    "name": "Best Choice Polyaspartic HS",
+    "description": "High performance, fast-drying, aliphatic polyaspartic floor coating designed for application over full broadcast systems.",
+    "price": 305.00,
+    "image": "/images/products/polyaspartic-hs.png",
+    "category": "Topcoats",
+    "features": [
+      "Fast drying",
+      "UV stable",
+      "High performance",
+      "Chemical resistant"
+    ]
+  },
+  {
+    "id": "casting-resin",
+    "name": "Best Choice Casting Resin",
+    "description": "Ultra-clear, self-leveling, & high-gloss epoxy resin coating. Great for river tables, live edge furniture, arts & crafts projects.",
+    "price": 135.00,
+    "image": "/images/products/casting-resin.png",
+    "category": "Crafting & Hobby",
+    "features": [
+      "Deep pour",
+      "Crystal clear",
+      "Bubble release",
+      "Low heat"
+    ]
+  },
+  {
+    "id": "metallic-additive",
+    "name": "Best Choice Metallic Additive",
+    "description": "Lustrous metallic additives for vibrant pearlescent & iridescent floor finishes that impress.",
+    "price": 61.00,
+    "image": "/images/products/metallic-additive.png",
+    "category": "Coating Additives",
+    "features": [
+      "Vibrant colors",
+      "Pearlescent finish",
+      "Easy to mix",
+      "Unique effects"
+    ]
+  },
+  {
+    "id": "u-tints",
+    "name": "Best Choice U-Tints",
+    "description": "High-performance universal pigment packs designed for use with a variety of Best Choice coating systems.",
+    "price": 32.00,
+    "image": "/images/products/u-tints.png",
+    "category": "Coating Additives",
+    "features": [
+      "Universal compatibility",
+      "Vibrant colors",
+      "Easy to mix",
+      "Consistent results"
+    ]
+  },
+  {
+    "id": "polytints",
+    "name": "Best Choice Poly Tints",
+    "description": "Custom Color Polyurea Pigment Packs designed to be added to Instant Patch, Polygrout, and 860JF neutral bases.",
+    "price": 32.00,
+    "image": "/images/products/polytints.png",
+    "category": "Coating Additives",
+    "features": [
+      "Chemical Resistant",
+      "Solvent Free",
+      "Seamless – High Build Coating",
+      "Hard Wearing & Abrasion Resistant"
+    ]
+  },
+  {
+    "id": "slip-resistant",
+    "name": "Best Choice Slip Resistant Additive",
+    "description": "Stir-in additive available in 30TEX and 50TEX that provides a slip-resistant texture to floor coatings.",
+    "price": 16.00,
+    "image": "/images/products/decorative-chip.png",
+    "category": "Coating Additives",
+    "features": [
+      "Easy surface cleaning",
+      "Spherical-shaped particles",
+      "Does not increase viscosity",
+      "Stays suspended in coatings"
+    ]
+  },
+  {
+    "id": "decorative-chip",
+    "name": "Best Choice Decorative Chip (40 LB Box)",
+    "description": "Easy to maintain & customize, economical flooring solution that naturally hides concrete imperfections while enhancing & protecting any decor.",
+    "price": 110.00,
+    "image": "/images/products/decorative-chip.png",
+    "category": "Decorative Chip",
+    "features": [
+      "Colorfast, UV Stable Pigments",
+      "Random Shapes Naturally Hide Imperfections",
+      "Economical Flooring Solution",
+      "Highly Customizable",
+      "Easy to Use & Maintain"
+    ]
+  }
+]

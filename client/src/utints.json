@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Safety Yellow",
+    "ghlProductId": "696343baf961413a60ea29ef",
+    "price": null,
+    "stripeProductId": "prod_Tm1cyIuzdO0lND",
+    "stripePriceId": "price_1SoTZWDgJPitNk4Cv5Z1Njqt"
+  },
+  {
+    "name": "Safety Orange",
+    "ghlProductId": "696343b7a6e8f346f0566c21",
+    "price": null,
+    "stripeProductId": "prod_Tm1cJtydmGbi6K",
+    "stripePriceId": "price_1SoTZZDgJPitNk4Cmp12N3BT"
+  },
+  {
+    "name": "Safety Green",
+    "ghlProductId": "696343b571d5353d240a32b9",
+    "price": null,
+    "stripeProductId": "prod_Tm1cBv2N2QEeHw",
+    "stripePriceId": "price_1SoTZcDgJPitNk4CS59FD1x2"
+  },
+  {
+    "name": "Safety Red",
+    "ghlProductId": "696343b3f961414724ea289d",
+    "price": null,
+    "stripeProductId": "prod_Tm1cm2zwsN7PnU",
+    "stripePriceId": "price_1SoTZeDgJPitNk4CIDNpwnGF"
+  },
+  {
+    "name": "Safety Blue",
+    "ghlProductId": "696343b071d5352b170a31f9",
+    "price": null,
+    "stripeProductId": "prod_Tm1cZ6nBme1ZL5",
+    "stripePriceId": "price_1SoTZjDgJPitNk4CsdYg1kg1"
+  },
+  {
+    "name": "White",
+    "ghlProductId": "696343aecc8bf431c6ccd9d3",
+    "price": null,
+    "stripeProductId": "prod_Tm1dWqD3CZ4xBI",
+    "stripePriceId": "price_1SoTZnDgJPitNk4CZfU8pUyj"
+  },
+  {
+    "name": "Skyblue",
+    "ghlProductId": "696343accc8bf49332ccd946",
+    "price": null,
+    "stripeProductId": "prod_Tm1dSEZh4FGq5z",
+    "stripePriceId": "price_1SoTZqDgJPitNk4CULW6cuFe"
+  },
+  {
+    "name": "Tile Red",
+    "ghlProductId": "696343aaa6e8f3acd45669b2",
+    "price": null,
+    "stripeProductId": "prod_Tm1dgtgLSXeoAF",
+    "stripePriceId": "price_1SoTZsDgJPitNk4ClNDakWMz"
+  },
+  {
+    "name": "Taupe",
+    "ghlProductId": "696343a8f96141afdcea273b",
+    "price": null,
+    "stripeProductId": "prod_Tm1dhHzIH04d6C",
+    "stripePriceId": "price_1SoTZvDgJPitNk4Co1eQ0Ph6"
+  },
+  {
+    "name": "Sandstone",
+    "ghlProductId": "696343a50cfb3ea73fa2a233",
+    "price": null,
+    "stripeProductId": "prod_Tm1d1DGkIa7tHD",
+    "stripePriceId": "price_1SoTZyDgJPitNk4C0a206sQ4"
+  },
+  {
+    "name": "Haze Gray",
+    "ghlProductId": "696343a390071a3b713d9bd2",
+    "price": null,
+    "stripeProductId": "prod_Tm1dAdThgKLOtE",
+    "stripePriceId": "price_1SoTa1DgJPitNk4Cv5yyvDYG"
+  },
+  {
+    "name": "Light Gray",
+    "ghlProductId": "696343a10cfb3e2688a2a1c2",
+    "price": null,
+    "stripeProductId": "prod_Tm1dxnqNTFyZ5d",
+    "stripePriceId": "price_1SoTa4DgJPitNk4ChNpgF3Yz"
+  },
+  {
+    "name": "Deck Gray",
+    "ghlProductId": "6963439f71d535fcb10a2f6b",
+    "price": null,
+    "stripeProductId": "prod_Tm1dhPtyqAdjE6",
+    "stripePriceId": "price_1SoTa6DgJPitNk4C2WbsjSal"
+  },
+  {
+    "name": "Black",
+    "ghlProductId": "6963439d4b53d11cfa56559c",
+    "price": null,
+    "stripeProductId": "prod_Tm1dF0LydSYibF",
+    "stripePriceId": "price_1SoTa8DgJPitNk4CbW5iQiSx"
+  }
+]

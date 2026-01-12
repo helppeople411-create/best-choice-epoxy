@@ -1,0 +1,20 @@
+[
+  {
+    "name": "50TEX Slip Resistant Additive",
+    "ghlProductId": "696345af90071a2a333de862",
+    "price": 16,
+    "description": "Slip Resistant Additive for Floor Coatings (3.2oz - 1 Gal Mix)",
+    "image": "/images/products/decorative-chip.png",
+    "stripeProductId": "prod_Tm1dP30xS69YIj",
+    "stripePriceId": "price_1SoTaNDgJPitNk4CJ117y9Y1"
+  },
+  {
+    "name": "30TEX Slip Resistant Additive",
+    "ghlProductId": "696345e214cd399eeda13841",
+    "price": 34,
+    "description": "Slip Resistant Additive for Floor Coatings (3 Gal Mix)",
+    "image": "/images/products/decorative-chip.png",
+    "stripeProductId": "prod_Tm1dfbl8V1mTE1",
+    "stripePriceId": "price_1SoTaPDgJPitNk4C2WE9oPVh"
+  }
+]

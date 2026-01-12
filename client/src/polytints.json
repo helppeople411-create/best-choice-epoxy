@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Concrete Gray",
+    "ghlProductId": "6963457e0cfb3e3079a2ea07",
+    "price": 32,
+    "stripeProductId": "prod_Tm1dAXdypZorfX",
+    "stripePriceId": "price_1SoTaBDgJPitNk4CBZIyESK7"
+  },
+  {
+    "name": "Dovetail Gray",
+    "ghlProductId": "6963457fcc8bf4c89ecd20ba",
+    "price": 32,
+    "stripeProductId": "prod_Tm1dIJy0eWbPlt",
+    "stripePriceId": "price_1SoTaEDgJPitNk4CME6qBN33"
+  },
+  {
+    "name": "Gauntlet Gray",
+    "ghlProductId": "6963458171d535117a0a7580",
+    "price": 32,
+    "stripeProductId": "prod_Tm1d5PZLrzvsYc",
+    "stripePriceId": "price_1SoTaGDgJPitNk4CcPl7Oahg"
+  },
+  {
+    "name": "Intellectual Gray",
+    "ghlProductId": "69634582cc8bf4beb5cd20d3",
+    "price": 32,
+    "stripeProductId": "prod_Tm1dPgknX1qQdn",
+    "stripePriceId": "price_1SoTaIDgJPitNk4CbJwX2haV"
+  },
+  {
+    "name": "Warm Stone",
+    "ghlProductId": "69634583cc8bf4629dcd20d8",
+    "price": 32,
+    "stripeProductId": "prod_Tm1dSquDaZWtN6",
+    "stripePriceId": "price_1SoTaLDgJPitNk4C2OZ0B4CE"
+  }
+]
