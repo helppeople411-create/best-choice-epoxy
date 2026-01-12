@@ -21,13 +21,13 @@ interface Product {
 
 export default function ProductDetail() {
   const [match, params] = useRoute("/products/:id");
-  
+
   const [, setLocation] = useLocation();
-  
+
   if (!match) return <NotFound />;
-  
+
   const product = (products as unknown as Product[]).find(p => p.id === params.id);
-  
+
   if (!product) return <NotFound />;
 
   const handleBuyNow = async () => {
@@ -43,7 +43,7 @@ export default function ProductDetail() {
   return (
     <div className="min-h-screen flex flex-col bg-background font-sans">
       <Navbar />
-      
+
       <main className="flex-grow">
         {/* Breadcrumb / Back */}
         <div className="bg-muted/30 border-b border-border py-4">
@@ -55,26 +55,26 @@ export default function ProductDetail() {
             </Link>
           </div>
         </div>
-        
+
         <div className="container py-12 md:py-20">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20">
             {/* Product Image */}
             <div className="relative">
               <div className="aspect-square bg-white border-2 border-border p-12 flex items-center justify-center relative overflow-hidden group">
-                <div className="absolute top-0 left-0 w-full h-full bg-[url('/images/grid-pattern.png')] opacity-5"></div>
-                <img 
-                  src={product.image} 
-                  alt={product.name} 
-                  className="w-full h-full object-contain z-10 drop-shadow-xl transition-transform duration-500 group-hover:scale-105" 
+                <div className="absolute top-0 left-0 w-full h-full opacity-5"></div>
+                <img
+                  src={product.image}
+                  alt={product.name}
+                  className="w-full h-full object-contain z-10 drop-shadow-xl transition-transform duration-500 group-hover:scale-105"
                 />
-                
+
                 {/* Decorative corners */}
                 <div className="absolute top-0 left-0 w-4 h-4 border-t-4 border-l-4 border-primary"></div>
                 <div className="absolute top-0 right-0 w-4 h-4 border-t-4 border-r-4 border-primary"></div>
                 <div className="absolute bottom-0 left-0 w-4 h-4 border-b-4 border-l-4 border-primary"></div>
                 <div className="absolute bottom-0 right-0 w-4 h-4 border-b-4 border-r-4 border-primary"></div>
               </div>
-              
+
               {/* Tech Specs Box */}
               <div className="mt-8 bg-accent text-accent-foreground p-6 border-l-4 border-primary">
                 <h3 className="font-display font-bold uppercase mb-4 flex items-center">
@@ -100,7 +100,7 @@ export default function ProductDetail() {
                 </div>
               </div>
             </div>
-            
+
             {/* Product Info */}
             <div className="flex flex-col h-full">
               <div className="mb-2">
@@ -108,19 +108,19 @@ export default function ProductDetail() {
                   {product.category}
                 </span>
               </div>
-              
+
               <h1 className="text-4xl md:text-5xl font-display font-bold uppercase mb-6 leading-tight">
                 {product.name}
               </h1>
-              
+
               <div className="text-3xl font-mono font-bold text-primary mb-8 pb-8 border-b border-border border-dashed">
                 ${product.price.toFixed(2)}
               </div>
-              
+
               <p className="text-lg text-white mb-8 leading-relaxed">
                 {product.description}
               </p>
-              
+
               <div className="mb-10">
                 <h3 className="font-display font-bold uppercase mb-4 text-sm tracking-wider">Key Features</h3>
                 <ul className="space-y-3">
@@ -132,11 +132,11 @@ export default function ProductDetail() {
                   ))}
                 </ul>
               </div>
-              
+
               <div className="mt-auto space-y-4">
                 <div className="flex gap-4">
-                  <Button 
-                    size="lg" 
+                  <Button
+                    size="lg"
                     className="flex-1 rounded-none bg-primary text-primary-foreground hover:bg-primary/90 font-display font-bold uppercase h-14 text-lg"
                     onClick={handleBuyNow}
                   >
@@ -154,7 +154,7 @@ export default function ProductDetail() {
           </div>
         </div>
       </main>
-      
+
       <Footer />
     </div>
   );
