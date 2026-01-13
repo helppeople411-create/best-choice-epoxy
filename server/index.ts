@@ -28,9 +28,11 @@ async function startServer() {
     res.sendFile(path.join(staticPath, "index.html"));
   });
 
-  const port = process.env.PORT || 3000;
+  // Hardcode port to 3000 to match Railway Target Port setting
+  // (ignoring process.env.PORT which Railway might set to something else like 8080)
+  const port = 3000;
 
-  server.listen(Number(port), "0.0.0.0", () => {
+  server.listen(port, "0.0.0.0", () => {
     console.log(`Server running on http://0.0.0.0:${port}/`);
   });
 }
